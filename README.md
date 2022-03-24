@@ -1,9 +1,7 @@
 # GrabNDrag_WebExtensions
 
-simple GrabNDrag for Firefox and for me
-
-add-ons which are already exist is troublesome.
-so I have made simpler version.
+add-ons which are already exist are troublesome.
+so I have made much more simpler version.
 
 inertia/friction/momentum is not implemented.
 
