@@ -7,5 +7,4 @@ so I have made simpler version.
 
 inertia/friction/momentum is not implemented.
 
-currently for myself version (ver 0.1).
-debug output code is included intentionally.
+currently for-myself-version (ver 0.2).
