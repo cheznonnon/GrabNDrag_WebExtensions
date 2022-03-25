@@ -5,4 +5,7 @@ so I have made much more simpler version.
 
 inertia/friction/momentum is not implemented.
 
-currently for-myself-version (ver 0.2).
+[ 0.3 ]
+
++ [Fixed] conflict with auto-scroll in Firefox
++ [Patched] conflict when drag from anchors
