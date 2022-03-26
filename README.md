@@ -10,7 +10,12 @@ inertia/friction/momentum is not implemented.
 + [Fixed] conflict with auto-scroll in Firefox
 + [Patched] conflict when drag from anchors
 
+[ 0.4 ]
+
++ [New Feature] global cursor changer available.
++ [Fixed] sites like Blogger don't work at all.
++ [Fixed] frameset-like devided-view sites work main scrollbar only.
+
 [ current problems ]
 
-+ a : sites like Blogger don't work at all.
-+ b : frameset-like devided-view sites work main scrollbar only.
++ you cannot drag from anchors.
