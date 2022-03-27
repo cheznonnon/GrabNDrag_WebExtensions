@@ -23,4 +23,4 @@ inertia/friction/momentum is not implemented.
 
 [ current problems ]
 
-+ currently nothing.
++ scroll will stop at nested scrollable objects.(under investigation)
