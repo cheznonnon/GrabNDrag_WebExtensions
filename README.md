@@ -18,6 +18,7 @@ inertia/friction/momentum is not implemented.
 
 [ 0.5 ]
 
++ [New Feature] smart cursor changer for anchors.
 + [Fixed] you cannot drag from anchors.
 
 [ current problems ]
