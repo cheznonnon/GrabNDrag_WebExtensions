@@ -16,6 +16,10 @@ inertia/friction/momentum is not implemented.
 + [Fixed] sites like Blogger don't work at all.
 + [Fixed] frameset-like devided-view sites work main scrollbar only.
 
+[ 0.5 ]
+
++ [Fixed] you cannot drag from anchors.
+
 [ current problems ]
 
-+ you cannot drag from anchors.
++ currently nothing.
