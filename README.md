@@ -21,6 +21,11 @@ inertia/friction/momentum is not implemented.
 + [New Feature] smart cursor changer for anchors.
 + [Fixed] you cannot drag from anchors.
 
+[ 0.6 ]
+
++ [New Feature] scrollable detection code is now simpler.
++ [Fixed] scroll will stop at nested scrollable objects.
+
 [ current problems ]
 
-+ scroll will stop at nested scrollable objects.(under investigation)
++ special objects in some sites don't fire mousedown event.(may be unfixable)
