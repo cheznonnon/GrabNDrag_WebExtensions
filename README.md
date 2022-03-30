@@ -26,6 +26,11 @@ inertia/friction/momentum is not implemented.
 + [New Feature] scrollable detection code is now simpler.
 + [Fixed] scroll will stop at nested scrollable objects.
 
+[ 0.7 ]
+
++ [Fixed] regression : 0.4 global cursor changer is buggy.
+
 [ current problems ]
 
 + special objects in some sites don't fire mousedown event.(may be unfixable)
++ this feature should be implemented as Firefox main code. it is impossible as an add-on.
