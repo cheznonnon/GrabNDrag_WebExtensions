@@ -30,6 +30,10 @@ inertia/friction/momentum is not implemented.
 
 + [Fixed] regression : 0.4 global cursor changer is buggy.
 
+[ 0.8 ]
+
++ [New Feature] frameset support is added.
+
 [ current problems ]
 
 + special objects in some sites don't fire mousedown event.(may be unfixable)
