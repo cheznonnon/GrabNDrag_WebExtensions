@@ -38,3 +38,5 @@ inertia/friction/momentum is not implemented.
 
 + special objects in some sites don't fire mousedown event.(may be unfixable)
 + this feature should be implemented as Firefox main code. it is impossible as an add-on.
+
++ Chrome : can run but not working accurately : currently I don't know why.
